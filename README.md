@@ -64,9 +64,3 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - xml (enabled by default - don't turn it off)
 
 
-
-
-## Males baca text di atas? Baca penjelasan di bawah ini
-Untuk menjalankan program, kalian harus menginstal composer dulu. kalau udah, setting database nya di file .env
-Impor dulu database nya sebelum menjalankan program. Setelah itu, buka folder belajarci4 pakai git bash,
-terus ketik perintah 'php spark serve' untuk menjalankan local development servernya.

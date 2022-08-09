@@ -1,0 +1,4 @@
+MySQL DB Name :	epiz_32337336_belajarci4
+MySQL User Name : epiz_32337336
+MySQL Host Name : sql204.epizy.com
+MySQL Password : 6VyIFJH8l4FUf
